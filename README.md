@@ -3,7 +3,7 @@
 ## I am a Front-end Developer! 🥑🥑🥑
 - 🍱 I’m mainly working with ReactJs and React-Native to build web and mobile applications.
 - 🍔 I'm currently learning... literally everything that related to front-end development. 
-- 🌭 I also get a chance to investigate Android application programming using Java at my uni this Spring semester! 
+- 🌭 Beside, I going to study Android application programming using Java this spring semester! �
 - 🍉 2022 goals: improve my programming skills, contribute more to projects and practice coding challenges more regularly after years of being lazy 😆
 - 🎮 My hobbies: Playing games, taking photos and reading novels.
 
