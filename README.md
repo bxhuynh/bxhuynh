@@ -26,6 +26,6 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/xu%C3%A2n-huy%CC%80nh-bu%CC%80i-485232145/
+[linkedin]: https://www.linkedin.com/in/xuan-huynh-bui-485232145/
 [facebook]: https://www.facebook.com/buixuanhuynh1998/
 [skype]: https://join.skype.com/invite/fZEnP70fDVh8
