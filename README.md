@@ -18,9 +18,7 @@
 - React Native
 - UI Libs: Material UI, React Native Elements
 - Styles: CSS3, SASS
-- Form Management and Validation: React Hook Form and Yup
-- API requests: axios
-- State Management Tool: Redux Toolkit
+- State Management Tool: Redux
 - Version Control Tools: Git, Github
 - Other Programming Languages (not proficient): C++, Java, Python.
 
