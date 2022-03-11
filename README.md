@@ -14,13 +14,12 @@
 <br/>
 
 ### Languages and tools:
+- HTML - CSS - JS
 - ReactJS
 - React Native
-- UI Libs: Material UI, React Native Elements
-- Styles: CSS3, SASS
+- Libs: Material UI, React Native Elements, SASS
 - State Management Tool: Redux
-- Version Control Tools: Git, Github
-- Other Programming Languages (not proficient): C++, Java, Python.
+- Version Control Tools: Git
 
 
 
