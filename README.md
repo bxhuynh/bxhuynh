@@ -2,7 +2,7 @@
 
 ## I am a Front-end Developer! 🥑🥑🥑
 - 🍱 I’m mainly working with ReactJs and React-Native to build web and mobile applications.
-- 🍔 I'm currently learning... everything that related to front-end development. 
+- 🍔 I'm currently learning MERN stack.
 - 🍉 2022 goals: improve my programming skills, contribute more and travel to new places
 - 🎮 My hobbies: Playing games, taking photos and reading novels.
 
@@ -14,12 +14,11 @@
 <br/>
 
 ### Languages and tools:
-- HTML - CSS - JS
-- ReactJS
-- React Native
-- Libs: Material UI, React Native Elements, SASS
+- HTML, CSS, Javascript, Typescript
+- ReactJS, React Native
+- UI Libs: Material UI, React Native Elements, SASS
 - State Management Tool: Redux
-- Version Control Tools: Git
+- Form Management: react-hook-form
 
 
 
