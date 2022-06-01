@@ -24,7 +24,7 @@
 
 ### My stats:
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="#">
   <img width="49.5%" alt="bxhuynh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bxhuynh&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
     <img width="49.5%" alt="bxhuynh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bxhuynh&theme=tokyonight&hide_border=true" />
   </a>
