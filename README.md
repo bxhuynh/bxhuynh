@@ -2,7 +2,7 @@
 
 ## I am a Front-end Developer! 🥑🥑🥑
 - 🍱 I’m mainly working with ReactJs and React-Native to build web and mobile applications.
-- 🍔 I'm currently learning MERN stack.
+- 🍔 I'm currently learning Babylon.js and MERN stack.
 - 🍉 2022 goals: improve my programming skills, contribute more and travel to new places
 - 🎮 My hobbies: Playing games, taking photos and reading novels.
 
