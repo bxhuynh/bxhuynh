@@ -1,10 +1,8 @@
 ### Hi there, I'm Bui Xuan Huynh 👋 
 
 ## I am a Front-end Developer! 🥑🥑🥑
-- 🍱 I’m mainly working with ReactJs and React-Native to build web and mobile applications.
-- 🍔 I'm currently learning Babylon.js and MERN stack.
-- 🍉 2022 goals: improve my programming skills, contribute more and travel to new places
-- 🎮 My hobbies: Playing games, taking photos and reading novels.
+- I’m mainly working with ReactJs and React-Native to build web and mobile applications.
+- I'm currently learning Babylon.js and MERN stack.
 
 ### Connect with me:
 [<img align="left" alt="bxhuynh | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
