@@ -14,7 +14,7 @@
 ### Languages and tools:
 - HTML, CSS, Javascript, Typescript
 - ReactJS, React Native
-- UI Libs: Material UI, React Native Elements, SASS
+- Styled-components, Material UI, React Native Elements, SASS
 - State Management Tool: Redux
 - Form Management: react-hook-form  
 
