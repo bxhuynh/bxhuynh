@@ -2,7 +2,7 @@
 
 ## I am a Front-end Developer! 🥑🥑🥑
 - I’m mainly working with ReactJs and React-Native to build web and mobile applications.
-- I'm currently learning Babylon.js and MERN stack.
+- I'm currently learning MERN stack.
 
 ### Connect with me:
 [<img align="left" alt="bxhuynh | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
