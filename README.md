@@ -2,6 +2,7 @@
 
 ## I am a Front-end Developer! 🥑🥑🥑
 - Mainly working with ReactJs and React-Native to build web and mobile applications.
+- Studying Ruby on Rails 
 
 ### Connect with me:
 [<img align="left" alt="bxhuynh | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
