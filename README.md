@@ -1,8 +1,8 @@
-### Hi there, I'm Bui Xuan Huynh 👋 
+### Hi there, I'm Huynh Bui 👋 
 
-## I am a Front-end Developer! 🥑🥑🥑
-- Mainly working with ReactJs and React-Native to build web and mobile applications.
-- Studying Ruby on Rails 
+## I am a Web Developer! 🥑🥑🥑
+- Mainly working with ReactJs.
+- Ruby on Rails  
 
 ### Connect with me:
 [<img align="left" alt="bxhuynh | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -12,11 +12,13 @@
 <br/>
 
 ### Languages and tools:
-- HTML, CSS, Javascript, Typescript
-- ReactJS, React Native
-- Styled-components, Material UI, React Native Elements, SASS
-- State Management Tool: Redux
-- Form Management: react-hook-form  
+- HTML, CSS, SASS
+- Javascript, Typescript, Ruby
+- Ruby on Rails
+- ReactJS, React Native and related technologies:
+  + Styled-components, Material UI, React Native Elements
+  + State Management Tool: Redux
+  + Form Management: react-hook-form  
 
 <a href="#"><img align="center" alt="bxhuynh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxhuynh&count_private=true&layout=compact&theme=tokyonight&hide_border=true&&&exclude_repo=CT312H-practice" /></a>
 
